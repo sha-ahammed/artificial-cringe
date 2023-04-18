@@ -1,0 +1,3 @@
+[submodule "pairZero"]
+	path = pairZero
+	url = https://github.com/sha-ahammed/Text2Video-Zero.git
